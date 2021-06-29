@@ -1,0 +1,15 @@
+System_time  :
+Real_time   : 6.340000, User_time   : 2.950000, System_time : 3.350000, 
+
+System_time  :
+Real_time   : 6.550000, User_time   : 3.000000, System_time : 3.530000, 
+
+Library_time  :
+Real_time   : 0.260000, User_time   : 0.260000, System_time : 0.000000, 
+
+Library_time  :
+Real_time   : 0.260000, User_time   : 0.250000, System_time : 0.000000, 
+
+Library_time  :
+Real_time   : 0.320000, User_time   : 0.310000, System_time : 0.000000, 
+

@@ -1,0 +1,5 @@
+Najkrótszy real_time : 	1.static	2.dynamic	3.shared
+Najkrótszy user_time :		1.static	2.dynamic	3.shared
+Najkrótszy system_time:	1.static	2.dynamic	3.shared
+
+Biblioteka statyczna okazala się najszybszą biblioteką 

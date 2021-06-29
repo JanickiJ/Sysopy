@@ -1,0 +1,46 @@
+FORK:
+-handler dziedziczony
+-ignore dziedziczony
+-maskowanie dziedziczony
+-sygnal wywoływany nie dziedziczony
+
+EXEC:
+-ignore dziedziczony
+-mask dziedziczony
+-sygnal wywoływany i oczekujacy widoczny po wywołaniu
+
+./main.o ignore fork
+[Parent] Sending SIGUSR1 signal
+[Child]  Sending SIGUSR1 signal
+
+./main.o handler fork
+[Parent] Sending SIGUSR1 signal
+Signal SIGUSR1 received by handler
+[Child]  Sending SIGUSR1 signal
+Signal SIGUSR1 received by handler
+
+./main.o mask fork
+[Parent] Sending SIGUSR1 signal
+[Parent] SIGUSR1 is in pending signals: true
+[Child]  Sending SIGUSR1 signal
+[Child]  SIGUSR1 is in pending signals: true
+
+./main.o pending fork
+[Parent] Sending SIGUSR1 signal
+[Parent] SIGUSR1 is in pending signals: true
+[Child]  SIGUSR1 is in pending signals:  false
+
+./main.o ignore exec
+[Parent] Sending SIGUSR1 signal
+[Child] Sending SIGUSR1 signal
+
+./main.o mask exec
+[Parent] Sending SIGUSR1 signal
+[Parent] SIGUSR1 is in pending signals: true
+[Child] Sending SIGUSR1 signal
+[Child]  SIGUSR1 is in pending signals: true
+
+./main.o pending exec
+[Parent] Sending SIGUSR1 signal
+[Parent] SIGUSR1 is in pending signals: true
+[Child]  SIGUSR1 is in pending signals: true

@@ -1,0 +1,26 @@
+Czasy działania programu dla optymalizacji O1 O2 O3 Os 
+
+Najkrótszy czas w kolejności 	Os O3 O2 O1
+
+
+opt1
+Real_time   : 4.330000, User_time   : 3.470000, System_time : 0.850000,
+Real_time   : 5.050000, User_time   : 3.910000, System_time : 1.110000,
+Real_time   : 5.480000, User_time   : 4.300000, System_time : 1.140000,
+
+
+opt2
+Real_time   : 6.260000, User_time   : 5.090000, System_time : 1.150000,
+Real_time   : 4.950000, User_time   : 3.980000, System_time : 0.940000,
+Real_time   : 4.900000, User_time   : 3.900000, System_time : 0.990000,
+
+
+opt3
+Real_time   : 4.930000, User_time   : 3.950000, System_time : 0.950000,
+Real_time   : 5.250000, User_time   : 4.120000, System_time : 1.100000,
+Real_time   : 4.490000, User_time   : 3.590000, System_time : 0.870000,
+
+opt0s
+Real_time   : 4.470000, User_time   : 3.520000, System_time : 0.930000,
+Real_time   : 4.880000, User_time   : 3.870000, System_time : 1.000000,
+Real_time   : 4.330000, User_time   : 3.550000, System_time : 0.770000,

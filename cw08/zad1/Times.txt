@@ -1,0 +1,98 @@
+-Metoda block jest znacznie szybsza od numbers, dzieje sie tak poniewaz kazdy watek musi przejsc po całej tablicy
+w metodzie numbers natomiast w block tylko po czesci. 
+-Czas zwieksza sie wraz z iloscia watkow, glównie czas ich obsługi gra tutaj role 
+
+
+
+./main 1 block pepper.ascii.pgm test_out.pgm
+[0]     took [218.095000 mics]
+[total] took [367.148000 mics]
+
+./main 2 block pepper.ascii.pgm test_out.pgm
+[0]     took [108.684000 mics]
+[1]     took [109.085000 mics]
+[total] took [244.972000 mics]
+
+./main 4 block pepper.ascii.pgm test_out.pgm
+[0]     took [73.220000 mics]
+[1]     took [86.893000 mics]
+[2]     took [84.347000 mics]
+[3]     took [121.406000 mics]
+[total] took [233.380000 mics]
+
+./main 8 block pepper.ascii.pgm test_out.pgm
+[0]     took [36.781000 mics]
+[1]     took [46.334000 mics]
+[2]     took [45.095000 mics]
+[3]     took [40.615000 mics]
+[4]     took [45.187000 mics]
+[5]     took [45.465000 mics]
+[6]     took [54.861000 mics]
+[7]     took [55.318000 mics]
+[total] took [362.744000 mics]
+
+./main 16 block pepper.ascii.pgm test_out.pgm
+[0]     took [20.159000 mics]
+[1]     took [20.203000 mics]
+[2]     took [13.771000 mics]
+[3]     took [13.873000 mics]
+[4]     took [21.288000 mics]
+[5]     took [17.470000 mics]
+[6]     took [20.680000 mics]
+[7]     took [20.148000 mics]
+[8]     took [20.637000 mics]
+[9]     took [19.236000 mics]
+[10]     took [20.131000 mics]
+[11]     took [19.966000 mics]
+[12]     took [21.106000 mics]
+[13]     took [19.473000 mics]
+[14]     took [19.476000 mics]
+[15]     took [20.607000 mics]
+[total] took [583.015000 mics]
+
+./main 1 numbers pepper.ascii.pgm test_out.pgm
+[0]     took [349.467000 mics]
+[total] took [459.341000 mics]
+
+./main 2 numbers pepper.ascii.pgm test_out.pgm
+[0]     took [586.853000 mics]
+[1]     took [460.957000 mics]
+[total] took [707.621000 mics]
+
+./main 4 numbers pepper.ascii.pgm test_out.pgm
+[0]     took [666.271000 mics]
+[1]     took [460.492000 mics]
+[2]     took [481.149000 mics]
+[3]     took [557.302000 mics]
+[total] took [1222.279000 mics]
+
+./main 8 numbers pepper.ascii.pgm test_out.pgm
+[0]     took [558.887000 mics]
+[1]     took [565.949000 mics]
+[2]     took [667.502000 mics]
+[3]     took [576.927000 mics]
+[4]     took [479.971000 mics]
+[5]     took [521.149000 mics]
+[6]     took [496.680000 mics]
+[7]     took [371.511000 mics]
+[total] took [1425.853000 mics]
+
+./main 16 numbers pepper.ascii.pgm test_out.pgm
+[0]     took [479.174000 mics]
+[1]     took [471.816000 mics]
+[2]     took [512.856000 mics]
+[3]     took [493.160000 mics]
+[4]     took [321.685000 mics]
+[5]     took [439.797000 mics]
+[6]     took [439.974000 mics]
+[7]     took [434.251000 mics]
+[8]     took [429.777000 mics]
+[9]     took [432.791000 mics]
+[10]     took [431.309000 mics]
+[11]     took [435.111000 mics]
+[12]     took [431.482000 mics]
+[13]     took [407.923000 mics]
+[14]     took [352.285000 mics]
+[15]     took [288.402000 mics]
+[total] took [2145.258000 mics]
+

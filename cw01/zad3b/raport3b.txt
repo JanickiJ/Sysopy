@@ -1,0 +1,858 @@
+---------
+ OPT = 01
+---------
+
+
+   STATIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.030000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.060000, User_time   : 0.060000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.540000, System_time : 0.120000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.050000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.140000, System_time : 0.040000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.740000, User_time   : 1.360000, System_time : 0.360000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.170000, User_time   : 0.120000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.270000, System_time : 0.050000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.030000, User_time   : 2.410000, System_time : 0.610000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.660000, User_time   : 7.020000, System_time : 1.580000, 
+
+
+
+   SHARED TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.050000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.550000, System_time : 0.100000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.070000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.200000, User_time   : 0.150000, System_time : 0.040000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.740000, User_time   : 1.430000, System_time : 0.300000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.120000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.250000, System_time : 0.080000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.040000, User_time   : 2.390000, System_time : 0.630000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.620000, User_time   : 6.860000, System_time : 1.730000, 
+
+
+
+   DYNAMIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.030000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.660000, User_time   : 0.540000, System_time : 0.110000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.100000, User_time   : 0.080000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.160000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.750000, User_time   : 1.400000, System_time : 0.330000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.170000, User_time   : 0.130000, System_time : 0.020000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.250000, System_time : 0.070000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.020000, User_time   : 2.430000, System_time : 0.570000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.670000, User_time   : 6.910000, System_time : 1.730000, 
+
+---------
+ OPT = O2 
+---------
+
+
+   STATIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.050000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.660000, User_time   : 0.540000, System_time : 0.110000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.060000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.160000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.730000, User_time   : 1.400000, System_time : 0.320000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.110000, System_time : 0.040000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.270000, System_time : 0.050000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.040000, User_time   : 2.460000, System_time : 0.570000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.680000, User_time   : 6.880000, System_time : 1.770000, 
+
+
+
+   SHARED TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.030000, User_time   : 0.020000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.070000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.660000, User_time   : 0.520000, System_time : 0.130000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.050000, System_time : 0.040000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.180000, User_time   : 0.150000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.850000, User_time   : 1.370000, System_time : 0.360000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.140000, System_time : 0.010000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.270000, System_time : 0.060000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.030000, User_time   : 2.400000, System_time : 0.610000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.650000, User_time   : 6.840000, System_time : 1.770000, 
+
+
+
+   DYNAMIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.040000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.660000, User_time   : 0.530000, System_time : 0.110000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.130000, User_time   : 0.070000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.140000, System_time : 0.040000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.720000, User_time   : 1.410000, System_time : 0.300000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.170000, User_time   : 0.140000, System_time : 0.020000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.260000, System_time : 0.060000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.030000, User_time   : 2.430000, System_time : 0.580000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.740000, User_time   : 6.960000, System_time : 1.650000, 
+
+---------
+ OPT = O3 
+---------
+
+
+   STATIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.530000, System_time : 0.130000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.070000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.150000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.790000, User_time   : 1.410000, System_time : 0.370000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.130000, System_time : 0.040000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.280000, System_time : 0.050000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.010000, User_time   : 2.510000, System_time : 0.490000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.650000, User_time   : 6.950000, System_time : 1.670000, 
+
+
+
+   SHARED TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.030000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.550000, System_time : 0.100000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.080000, System_time : 0.000000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.150000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.850000, User_time   : 1.340000, System_time : 0.400000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.140000, System_time : 0.010000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.320000, User_time   : 0.260000, System_time : 0.060000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.030000, User_time   : 2.340000, System_time : 0.680000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.640000, User_time   : 7.060000, System_time : 1.550000, 
+
+
+
+   DYNAMIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.040000, System_time : 0.030000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.530000, System_time : 0.130000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.080000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.150000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.740000, User_time   : 1.380000, System_time : 0.350000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.120000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.220000, System_time : 0.100000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.020000, User_time   : 2.380000, System_time : 0.630000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.670000, User_time   : 6.850000, System_time : 1.750000, 
+
+---------
+ OPT = Os 
+---------
+
+
+   STATIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.030000, User_time   : 0.030000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.520000, System_time : 0.140000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.070000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.130000, System_time : 0.050000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.730000, User_time   : 1.370000, System_time : 0.340000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.120000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.530000, User_time   : 0.250000, System_time : 0.080000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.020000, User_time   : 2.340000, System_time : 0.670000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.710000, User_time   : 6.760000, System_time : 1.870000, 
+
+
+
+   SHARED TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.010000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.060000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.660000, User_time   : 0.540000, System_time : 0.120000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.090000, User_time   : 0.080000, System_time : 0.000000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.150000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.860000, User_time   : 1.420000, System_time : 0.310000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.170000, User_time   : 0.130000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.230000, System_time : 0.090000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.020000, User_time   : 2.420000, System_time : 0.580000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.670000, User_time   : 6.910000, System_time : 1.740000, 
+
+
+
+   DYNAMIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.050000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.680000, User_time   : 0.500000, System_time : 0.170000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.100000, User_time   : 0.070000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.200000, User_time   : 0.140000, System_time : 0.050000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.730000, User_time   : 1.370000, System_time : 0.350000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.140000, System_time : 0.020000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.270000, System_time : 0.050000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.030000, User_time   : 2.360000, System_time : 0.650000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 8.740000, User_time   : 7.070000, System_time : 1.650000, 
+
+
+
+   STATIC TEST    
+
+
+
+
+
+   STATIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.040000, User_time   : 0.030000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.070000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.560000, System_time : 0.100000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.130000, User_time   : 0.090000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.200000, User_time   : 0.140000, System_time : 0.050000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.830000, User_time   : 1.480000, System_time : 0.340000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.120000, System_time : 0.040000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.330000, User_time   : 0.260000, System_time : 0.070000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.210000, User_time   : 2.520000, System_time : 0.670000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 5.460000, User_time   : 4.180000, System_time : 1.230000, 
+
+
+
+   SHARED TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.070000, User_time   : 0.040000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.120000, User_time   : 0.090000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.680000, User_time   : 0.560000, System_time : 0.110000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.100000, User_time   : 0.070000, System_time : 0.030000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.210000, User_time   : 0.140000, System_time : 0.060000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.750000, User_time   : 1.430000, System_time : 0.310000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.160000, User_time   : 0.120000, System_time : 0.040000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.340000, User_time   : 0.280000, System_time : 0.050000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.050000, User_time   : 2.350000, System_time : 0.690000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 4.350000, User_time   : 3.540000, System_time : 0.800000, 
+
+
+
+   DYNAMIC TEST    
+
+
+
+Number of pairs: small, Number of rows: small
+
+Total_time  :
+Real_time   : 0.050000, User_time   : 0.030000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.080000, User_time   : 0.050000, System_time : 0.020000, 
+
+Number of pairs: small, Number of rows: big
+
+Total_time  :
+Real_time   : 0.670000, User_time   : 0.530000, System_time : 0.120000, 
+
+Number of pairs: medium, Number of rows: small
+
+Total_time  :
+Real_time   : 0.100000, User_time   : 0.070000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.190000, User_time   : 0.160000, System_time : 0.020000, 
+
+Number of pairs: medium, Number of rows: big
+
+Total_time  :
+Real_time   : 1.750000, User_time   : 1.400000, System_time : 0.350000, 
+
+Number of pairs: big, Number of rows: small
+
+Total_time  :
+Real_time   : 0.170000, User_time   : 0.130000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: medium
+
+Total_time  :
+Real_time   : 0.340000, User_time   : 0.250000, System_time : 0.080000, 
+
+Number of pairs: big, Number of rows: big
+
+Total_time  :
+Real_time   : 3.050000, User_time   : 2.480000, System_time : 0.560000, 
+
+Number of pairs: huge, Number of rows: huge
+
+Total_time  :
+Real_time   : 4.400000, User_time   : 3.480000, System_time : 0.830000, 
+

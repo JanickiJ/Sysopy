@@ -1,0 +1,240 @@
+Number of pairs: small, Number of rows: small
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 6
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.010000, User_time   : 0.010000, System_time : 0.000000
+build_blocks
+Real_time   : 0.000000, User_time   : 0.010000, System_time : 0.000000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 16.640000, User_time   : 0.020000, System_time : 0.000000, 
+
+Number of pairs: small, Number of rows: medium
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 6
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.020000, User_time   : 0.020000, System_time : 0.000000
+build_blocks
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.010000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 1.650000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: small, Number of rows: big
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 6
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.110000, User_time   : 0.090000, System_time : 0.010000
+build_blocks
+Real_time   : 0.040000, User_time   : 0.010000, System_time : 0.030000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 2.230000, User_time   : 0.100000, System_time : 0.040000, 
+
+Number of pairs: medium, Number of rows: small
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 15
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.020000, User_time   : 0.020000, System_time : 0.000000
+build_blocks
+Real_time   : 0.010000, User_time   : 0.000000, System_time : 0.010000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 5.070000, User_time   : 0.020000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: medium
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 15
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.030000, User_time   : 0.030000, System_time : 0.010000
+build_blocks
+Real_time   : 0.020000, User_time   : 0.010000, System_time : 0.000000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 1.410000, User_time   : 0.040000, System_time : 0.010000, 
+
+Number of pairs: medium, Number of rows: big
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 15
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.260000, User_time   : 0.230000, System_time : 0.030000
+build_blocks
+Real_time   : 0.100000, User_time   : 0.060000, System_time : 0.040000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 1.270000, User_time   : 0.290000, System_time : 0.070000,
+
+Number of pairs: big, Number of rows: small
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 60
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.060000, User_time   : 0.050000, System_time : 0.000000
+build_blocks
+Real_time   : 0.020000, User_time   : 0.020000, System_time : 0.010000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 2.770000, User_time   : 0.070000, System_time : 0.010000, 
+
+Number of pairs: big, Number of rows: medium
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 60
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.110000, User_time   : 0.110000, System_time : 0.010000
+build_blocks
+Real_time   : 0.050000, User_time   : 0.020000, System_time : 0.020000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 2.640000, User_time   : 0.130000, System_time : 0.030000, 
+
+Number of pairs: big, Number of rows: big
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 60
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 0.910000, User_time   : 0.820000, System_time : 0.110000
+build_blocks
+Real_time   : 0.420000, User_time   : 0.250000, System_time : 0.160000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 7.090000, User_time   : 1.070000, System_time : 0.270000, 
+
+Number of pairs: huge, Number of rows: huge
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 240
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 3.760000, User_time   : 3.290000, System_time : 0.410000
+build_blocks
+Real_time   : 4.060000, User_time   : 1.320000, System_time : 0.870000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.010000, System_time : 0.000000
+remove_rowReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 8.710000, User_time   : 4.620000, System_time : 1.280000, 
+
+Number of pairs: huge, Number of rows: removeAndAdd
+
+testReal_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+create_table 60
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+merge_filesReal_time   : 1.050000, User_time   : 0.950000, System_time : 0.090000
+build_blocks
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 3
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 4
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 5
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 6
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 7
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 8
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 9
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 10
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 11
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 12
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 13
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+add_blocks
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 2
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 3
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 4
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 5
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 6
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 7
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 8
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 9
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 10
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 11
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 12
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 13
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 14
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 15
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 16
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 25
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 26
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 27
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 28
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 29
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 17
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 18
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 19
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+remove_block 30
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+add_blocks
+Real_time   : 0.000000, User_time   : 0.000000, System_time : 0.000000
+
+Total_time  :
+Real_time   : 2.490000, User_time   : 0.950000, System_time : 0.090000, 
+
+---------
+
